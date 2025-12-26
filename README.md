@@ -1,9 +1,9 @@
-# ✂️ M1 - Pedra, Papel e Tesoura (Rock, Paper, Scissors)
+# ✂️ Pedra, Papel e Tesoura (Rock, Paper, Scissors)
 
 ## 🔗 Deploy do Projeto
 
 Confira a aplicação em execução através do link abaixo:
-👉 [Jogar Pedra, Papel e Tesoura](https://victormartinsd.github.io/m1-pedra-papel-tesoura-VictorMartinsD/)
+👉 [Jogar Pedra, Papel e Tesoura](https://victormartinsd.github.io/pedra-papel-tesoura/)
 
 ## 📸 Preview
 
@@ -38,11 +38,11 @@ O núcleo do jogo foi construído através da função em `script.js`:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/VictorMartinsD/m1-pedra-papel-tesoura-VictorMartinsD.git](https://github.com/VictorMartinsD/m1-pedra-papel-tesoura-VictorMartinsD.git)
+    git clone [https://github.com/VictorMartinsD/pedra-papel-tesoura.git](https://github.com/VictorMartinsD/mpedra-papel-tesoura.git)
     ```
 2.  **Acesse a Pasta:**
     ```bash
-    cd m1-pedra-papel-tesoura-VictorMartinsD
+    cd pedra-papel-tesoura
     ```
 3.  **Abra o `index.html`:** Simplesmente abra o arquivo `index.html` no seu navegador.
 4.  **Execute os Testes:** Clique no botão **"Executar Bateria de Testes"** para verificar se a sua implementação está correta.
@@ -50,12 +50,12 @@ O núcleo do jogo foi construído através da função em `script.js`:
 ---
 ---
 
-# 🇺🇸 M1 - Rock, Paper, Scissors
+# 🇺🇸 Rock, Paper, Scissors
 
 ## 🔗 Project Deploy
 
 You can check out the application in action at the link below:
-👉 [Play Rock, Paper, Scissors](https://victormartinsd.github.io/m1-pedra-papel-tesoura-VictorMartinsD/)
+👉 [Play Rock, Paper, Scissors](https://victormartinsd.github.io/pedra-papel-tesoura/)
 
 ## ✨ About the Project
 
@@ -84,11 +84,11 @@ The game's core logic is built around the following function in `script.js`:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/VictorMartinsD/m1-pedra-papel-tesoura-VictorMartinsD.git](https://github.com/VictorMartinsD/m1-pedra-papel-tesoura-VictorMartinsD.git)
+    git clone [https://github.com/VictorMartinsD/pedra-papel-tesoura.git](https://github.com/VictorMartinsD/pedra-papel-tesoura.git)
     ```
 2.  **Access the Folder:**
     ```bash
-    cd m1-pedra-papel-tesoura-VictorMartinsD
+    cd pedra-papel-tesoura
     ```
 3.  **Open `index.html`:** Simply open the `index.html` file in your browser.
 4.  **Run the Tests:** Click the **"Executar Bateria de Testes"** button to verify your implementation.
